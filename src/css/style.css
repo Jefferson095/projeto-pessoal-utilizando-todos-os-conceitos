@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(15, 37, 63);
+    color: aliceblue;
+    font-weight: bold
+}
+
+.container{
+    display: flex;
+}
+#contador {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 100px;
+    font-size:50px;
+}
